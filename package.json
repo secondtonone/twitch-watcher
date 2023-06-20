@@ -9,7 +9,7 @@
     "script": "node index.js",
     "start": "npm run script",
     "scheduler": "node scheduler.js",
-    "lint": "eslint --ext .js"
+    "lint": "eslint *.js"
   },
   "author": "",
   "license": "MIT",
